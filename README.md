@@ -8,7 +8,7 @@ I am passionate about digital archiving for many years now and you can find a lo
 My favorite language is Go but I am open to learn any new technology.
 
 - 🔭 I’m currently working on:
-  - [Zeno](https://github.com/CorentinB/Zeno) - A state-of-the art web crawler
+  - [Zeno](https://github.com/CorentinB/Zeno) - A state-of-the art web crawler 🔱
 - 🌱 I’m currently learning:
   - Rust
   - Kubernetes
