@@ -14,10 +14,8 @@ My favorite language is Go but I am open to learn any new technology.
   - Kubernetes
 - 👯 I’m looking to collaborate on:
   - Any archiving project
-- 🤔 I’m looking for help with:
-  - Anything!
 - 💬 Ask me about:
-  - Whatever you want!
+  - How France is great
 - 📫 How to reach me:
   - On Discord @The French Guy#2053
   - On Telegram @CorpsEnThym
