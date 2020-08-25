@@ -29,4 +29,4 @@ My favorite language is Go but I am open to learn any new technology.
   - I collect many other things
   - I collect too many things
 
-![Corentin Barreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorentinB&count_private=true&show_icons=true&theme=radical)
+![Corentin Barreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorentinB&count_private=true&show_icons=true&theme=bear)
