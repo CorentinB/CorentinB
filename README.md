@@ -10,12 +10,13 @@ My favorite language is Go but I am open to learn any new technology.
 - 🔭 I’m currently working on:
   - [Zeno](https://github.com/CorentinB/Zeno) - A state-of-the art web crawler 🔱
 - 🌱 I’m currently learning:
+  - WASM (specifically with Go)
   - Rust
   - Kubernetes
 - 👯 I’m looking to collaborate on:
   - Any archiving project
 - 💬 Ask me about:
-  - How France is great
+  - How great France is
 - 📫 How to reach me:
   - On Discord @The French Guy#2053
   - On Telegram @CorpsEnThym
