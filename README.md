@@ -20,7 +20,7 @@ My favorite language is Go but I am open to learn any new technology.
 - 📫 How to reach me:
   - On Discord @The French Guy#2053
   - On Telegram @CorpsEnThym
-  - By e-mail corentin.barreau24@gmail.com
+  - By e-mail corentin@archive.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
   - I used to practice hypnosis on my friends when I was in high school
