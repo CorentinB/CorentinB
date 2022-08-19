@@ -31,3 +31,5 @@ My favorite language is Go but I am open to learn any new technology.
 I am also for hire for any web scraping / crawling project you can have. Feel free to contact me!
 
 ![Corentin Barreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorentinB&count_private=true&show_icons=true&theme=bear)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CorentinB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
