@@ -12,7 +12,7 @@ My favorite language is Go but I am open to learn any new technology.
 - 🌱 I’m currently learning:
   - WASM (specifically with Go)
   - Rust
-  - Kubernetes
+  - Nomad
 - 👯 I’m looking to collaborate on:
   - Any archiving project
 - 💬 Ask me about:
