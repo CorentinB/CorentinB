@@ -9,10 +9,6 @@ My favorite language is Go but I am open to learn any new technology.
 
 - 🔭 I’m currently working on:
   - [Zeno](https://github.com/CorentinB/Zeno) - A state-of-the art web crawler 🔱
-- 🌱 I’m currently learning:
-  - WASM (specifically with Go)
-  - Rust
-  - Nomad
 - 👯 I’m looking to collaborate on:
   - Any archiving project
 - 💬 Ask me about:
