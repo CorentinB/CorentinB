@@ -14,7 +14,6 @@ My favorite language is Go but I am open to learn any new technology.
 - 💬 Ask me about:
   - How great France is
 - 📫 How to reach me:
-  - On Discord @The French Guy#2053
   - On Telegram @CorpsEnThym
   - By e-mail corentin@archive.org
 - 😄 Pronouns: he/him
