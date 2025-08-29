@@ -12,14 +12,13 @@ My favorite language is Go but I am open to learn any new technology.
 - 👯 I’m looking to collaborate on:
   - Any archiving project
 - 💬 Ask me about:
-  - How great France is
-- 😄 Pronouns: he/him
+  - How great France is, but how terrible our government is
 - ⚡ Fun fact:
   - I used to practice hypnosis on my friends when I was in high school
-  - I collect rubber ducks
+  - I collect physical media
   - I collect many other things
   - I collect too many things
 
 ![Corentin Barreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorentinB&count_private=true&show_icons=true&theme=bear)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CorentinB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=CorentinB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
