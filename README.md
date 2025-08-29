@@ -5,8 +5,6 @@ I work as a Software Engineer at Mistral AI, and I previously worked for 6 years
 
 I am passionate about digital archiving for almost a decade now and you can find a lot of projects related to that on my GitHub.
 
-My favorite language is Go but I am open to learn any new technology.
-
 - 🔭 I’m currently working on:
   - [Zeno](https://github.com/internetarchive/Zeno) - A state-of-the-art web crawler in Go 🔱
   - [gowarc](https://github.com/internetarchive/gowarc) - A state-of-the-art WARC library in Go 💾
