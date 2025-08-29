@@ -19,6 +19,8 @@ My favorite language is Go but I am open to learn any new technology.
   - I collect many other things
   - I collect too many things
 
+My two "life projects" are [Zeno](https://github.com/internetarchive/Zeno) and its companion library [gowarc](https://github.com/internetarchive/gowarc). I have poured my heart and soul into them, and I try to continue maintaining them wherever life takes me.
+
 ![Corentin Barreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorentinB&count_private=true&show_icons=true&theme=bear)
 
 [![trophy](https://trophygh.kolioaris.xyz/?username=CorentinB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
